@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "854997401829",
+    "project_id": "tramitesabogados-a6638",
+    "storage_bucket": "tramitesabogados-a6638.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854997401829:android:89e5eacea4f18a0e0fd40c",
+        "android_client_info": {
+          "package_name": "com.example.tramites_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854997401829-virntihgr79bpaltjv78hjv8as2uqp77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tramites_app",
+            "certificate_hash": "17244620ac7b754175dc9bb130c9e64f6503dea5"
+          }
+        },
+        {
+          "client_id": "854997401829-komb46mvrfa2cogu6kasdoopg9fcg5es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3AoEoNlTHIcNmXyUsAy_k1sy8YkkHrsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854997401829-komb46mvrfa2cogu6kasdoopg9fcg5es.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "854997401829-k92jrkfk3n1ki8iq4kjsj4dg65nuqphe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tramitesApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
